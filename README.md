@@ -11,11 +11,9 @@ Practicum II
 December, 2020
 
 # Purpose
-The purpose of this practicum is to use machine learning and analytics to get a better understanding if there’s any links between the demographics, psychology and if there was a connection
 
-I would like to get as much insight as possible from my data and make as many calculations as I can and to test where there were matches and no matches
-
-I will be looking at demographics, interests and survey responses of the individuals that partook in the speed dating experiment
+The purpose of this practicum is to use machine learning and analytics to get a better understanding if there’s any links between the demographics, psychology and if there was a connection between the participants.
+I would like to gain as much insight as possible from the data provided. We will be looking specifically at demographics, interests of the participantsand survey responses to their date in how they rated them.
 
 # Method
 
@@ -32,7 +30,7 @@ Once we have our data grouped and cleaned, then we can begin our machine learnin
   
 Lastly we can draw out insights and conclusion 
 
-#Data Overview
+# Data Overview
 I will be using data found: https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
 
 The data was gathered from speed dating participants from 2002-2004, during which they had four minutes to interact with someone of the opposite gender, location was not disclosed 
