@@ -1,4 +1,4 @@
-# practicumII
+# Data and Psychology of Dating
 
 Devon Jarquin
 
@@ -10,4 +10,4 @@ Practicum II
 
 December, 2020
 
-Data and Psychology of Speed Dating
+
