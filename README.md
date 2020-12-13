@@ -85,6 +85,8 @@ I first looked at total mean with matches and non matches, then I split the data
 
 We can see that the most popular interests in the set of people are yoga, shopping, music and concerts.
 
+![](blob/main/Barplot_2_interests.PNG)
+
 Now when we split of the data based off of whether there was  a match or not, we can spot a couple things
 
 Interests between matches and non matches line up almost perfectly. 
