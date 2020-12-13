@@ -1,2 +1,6 @@
 # practicumII
-Devon Jarquin - PRacticum II - Data and Psychology of Dating
+
+Devon Jarquin, Masters of Science, Data Science Candidate
+Regis Uiversity
+Practicum II
+December, 2020
