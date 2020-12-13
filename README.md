@@ -30,21 +30,16 @@ I will be using data found: https://data.world/annavmontoya/speed-dating-experim
 The data was gathered from speed dating participants from 2002-2004, during which they had four minutes to interact with someone of the opposite gender, location was not disclosed 
 The data contains:
   - Demographics such as occupation, race, age, university attended, wave of date and more. 
-  - As well as answers to questions such as how they view themselves, what their goal is for the event, how often they date, personal interests and so on. 
+  - How they rank 17 activities pertaining to personal interests such as sports, music, hiking, and so on. 
   - As well as how they ranked each of their speed dating partners in terms of: attractiveness, sincerity, intelligence, how fun they appeared to be, ambitiousness, and shared interests.
  
  # Data Cleaning and wrangling 
- 
 I broke up the data into 3 main groups, briefly mentioned before and I will be analyzing them in similar ways
-
 The 3 groups are as follows
   - Demographics
   - Interests 
   - Survey Responses to each date
-  
 I also cleaned the data by inserting either zeros or column averages since there were many NULL values
-
-The Demographics subset needed both column averages and zeroes in the NULLS, and once that was performed, I bound them back together
 
 # Demographics Data
 
