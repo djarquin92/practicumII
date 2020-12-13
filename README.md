@@ -17,18 +17,13 @@ I would like to gain as much insight as possible from the data provided. We will
 
 # Method
 
-My approach is to gain as much insight as I can from this data and trace it all back to whether or not that specific circumstance was a match 
-
-First step is to clean the data and prepare it to be analyzed
-
-Second step is break the data into appropriate groups to make our analyzing as efficient as possible. 
-
-Once we have our data grouped and cleaned, then we can begin our machine learning methods and analyzing
+- First step in getting insights ffrom our data is to clean it and prepare it to be analyzed.
+- Second step is break the data into appropriate groups to make our analyzing as efficient as possible. 
+- Third, once we have our data cleaned and grouped, then we can begin our machine learning methods and analyzing
   - K means Clustering
   - Random Forests
   - Data Visualization 
-  
-Lastly we can draw out insights and conclusion 
+- Lastly we can draw out insights and conclusion 
 
 # Data Overview
 I will be using data found: https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
