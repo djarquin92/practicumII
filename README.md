@@ -2,10 +2,13 @@
 
 Devon Jarquin
 
-Masters of Science, Data Science Candidate
-Regis Uiversity
-Practicum II
-December, 2020
+Masters of Science, Data Science Candidate 
+
+Regis Uiversity 
+
+Practicum II 
+
+December, 2020 
 
 # Purpose
 
@@ -24,16 +27,11 @@ I would like to gain as much insight as possible from the data provided. We will
 
 # Data Overview
 I will be using data found: https://data.world/annavmontoya/speed-dating-experiment/workspace/file?filename=Speed+Dating+Data.csv
-
 The data was gathered from speed dating participants from 2002-2004, during which they had four minutes to interact with someone of the opposite gender, location was not disclosed 
-
-The data found here contains:
-
-  - Demographics such as occupation, race, age, university attended and more. 
-  
+The data contains:
+  - Demographics such as occupation, race, age, university attended, wave of date and more. 
   - As well as answers to questions such as how they view themselves, what their goal is for the event, how often they date, personal interests and so on. 
-  
- -  As well as how they ranked each of their speed dating partners in terms of: attractiveness, sincerity, intelligence, how fun they appeared to be, ambitiousness, and shared interests.
+  - As well as how they ranked each of their speed dating partners in terms of: attractiveness, sincerity, intelligence, how fun they appeared to be, ambitiousness, and shared interests.
  
  # Data Cleaning and wrangling 
  
