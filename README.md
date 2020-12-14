@@ -52,9 +52,12 @@ I then did the Random Forest method to see how well the machine can predict when
 I then did a Variable Importance Plot from the Random Forest to see which dependent variables influenced the machine decision making
 
 # Demographics Data Results
+![](https://github.com/djarquin92/practicumII/blob/main/WSS_Plot.png)
+![](https://github.com/djarquin92/practicumII/blob/main/Kmeans_clustering.png)
 
 Our Random Forest Model achieved an accuracy of 94.99%
 
+![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_1.png)
 Here are the results of the Variable of Importance Plot
 
 These lists the variables of most importance to our machine learning random forests on the left
@@ -74,17 +77,15 @@ I was curious to see if certain activities drew people together more than others
 # Interests Data Results
 
 I performed a random forests and variable of importance plot to see which variables impacted our model the most
-
 Our model yielded a 96.9% accuracy
-
+![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_2_interests.png)
+![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_1.png)
 We can see that the mean of our model is mostly impacted by clubbing, theater, reading and tv
 
 I was curious to see what the individual means were for each of the categories
-
+![](https://github.com/djarquin92/practicumII/blob/main/barplot_1_total_interests.png)
 I first looked at total mean with matches and non matches, then I split the data and measured the means again
-
 We can see that the most popular interests in the set of people are yoga, shopping, music and concerts.
-
 ![](https://github.com/djarquin92/practicumII/blob/main/Barplot_2_interests.PNG)
 
 Now when we split of the data based off of whether there was  a match or not, we can spot a couple things
@@ -105,26 +106,23 @@ Keep in mind that each of these dates were only 4 minutes and participants were 
 
 # Survey Responses Results
 
+I believe that this subset of data will be the most telling of when instances where there were matches and not.
+We can get a true insight of what people were looking for in determining if their date would be a match.
+
+![](https://github.com/djarquin92/practicumII/blob/main/random_forest_3_survey_reponses.png)
+![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_3_survey_responses.png)
 Our Random Forest Model yielded a 97.11% accuracy
-
-I believe that this subset of data was the most telling of when instanced were matches
-
-We can get a true insight of what people were looking for in choosing a partner.
-
 Based off our Random Forest model, ambitiousness and attractiveness were consistently the 2 most impactful independent variables in determining our results for a match
-
 Similarly to how we observed interests, I wanted to look at the total means of matches and non matches. 
+![](https://github.com/djarquin92/practicumII/blob/main/barplot_3_survey_responses.png)
 
 Here we can see that intelligence and sincere were generally rated the highest among all participants for their date
-
 Common interests and fun were rated the lowest.
 
+![](https://github.com/djarquin92/practicumII/blob/main/barplot_4_survey_responses.PNG)
 Now we can split the data and see what the differences are and how much impact it had on total means
-
 Here are the means split up in cases where there are match vs no match
-
 Couple insights we can clearly make are that matches were rated higher in all categories, clearly
-
 The biggest take away to me is that how fun their date was and shared interests show the largest difference, and those 2 same columns were the lowest when we looked at all data in the last slide
 
 # Conculsion
