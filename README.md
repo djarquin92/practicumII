@@ -56,7 +56,10 @@ Lastly, I did a Variable Importance Plot from the Random Forest to see which ind
 ![](https://github.com/djarquin92/practicumII/blob/main/Kmeans_clustering.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_1.png)
 
-
+- I started with a Within Cluster Sums of Squares (WSS) Function and Plot to have an idea of the ideal number of clusters for our demographics data subset. 
+- The 'elblow' of the WSS plot appeared to be at '4'
+- I then did a K-means clustering of our data subset to see where the centers of each of the groups of data were pointed at and see if there was any pattern in how it was grouped.
+- I then performed a Random Forest and Variable of Importance plot where the machine will try to predict where matches occured and list the most important independent variables. 
 - Our Random Forest Model achieved an accuracy of 94.99%
 - We can see that wave number, age and round are the independent variables that played a huge part of our random forest model.
 - The chart on the right measure how much each independednt variable impacts the gini index of our data
