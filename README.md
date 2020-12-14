@@ -10,6 +10,8 @@ Practicum II
 
 December, 2020 
 
+Video Presentation: https://youtu.be/TXld8ViWqNQ
+
 # Purpose
 
 The purpose of this practicum is to use machine learning and analytics to get a better understanding if there’s any links between the demographics, psychology and if there was a connection between the participants.
