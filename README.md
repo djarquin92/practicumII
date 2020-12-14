@@ -69,6 +69,7 @@ I was curious to see if certain activities drew people together more than others
 
 ![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_2_interests.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_1.png)
+
 - I performed a random forests and variable of importance plot to see which variables impacted our model the most
 - Our model yielded a 96.9% accuracy
 - We can see that the mean of our model is mostly impacted by clubbing, theater, reading and tv
@@ -77,6 +78,7 @@ I was curious to see if certain activities drew people together more than others
 
 ![](https://github.com/djarquin92/practicumII/blob/main/barplot_1_total_interests.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Barplot_2_interests.PNG)
+
 The Bar Plots show the mean of each of the categories for interests. 
 I first looked at total mean with matches and non matches, then I split the data and measured the means again
 We can see that the most popular interests in the set of people are yoga, shopping, music and concerts.
@@ -95,6 +97,7 @@ Keep in mind that each of these dates were only 4 minutes and participants were 
 
 ![](https://github.com/djarquin92/practicumII/blob/main/random_forest_3_survey_reponses.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_3_survey_responses.png)
+
 Our Random Forest Model yielded a 97.11% accuracy
 Based off our Random Forest model, ambitiousness and attractiveness were consistently the 2 most impactful independent variables in determining our results for a match.
 We can get a true insight of what people were looking for in determining if their date would be a match.
