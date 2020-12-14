@@ -40,6 +40,7 @@ The 3 groups are as follows
   - Interests 
   - Survey Responses to each date
 I also cleaned the data by inserting either zeros or column averages since there were many NULL values
+![](https://github.com/djarquin92/practicumII/blob/main/Data_cleaning.PNG)
 
 # Demographics Data
 
