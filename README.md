@@ -113,13 +113,10 @@ There are a couple interesting insights we can make:
 
 # Conculsion
 
-There are many things to consider when analyzing our dataset on determining cases of matches or non matches
-
-Demographics and survey results proved to be the most impactful
-
-We were able to observe which independent variables were most impactful to our machine learning model
-
-Observing the data as a whole helped us get better insights before splitting it into our match vs nonmatch
+There are many things we observed when analyzing our dataset on determining cases of matches or non matches
+  - Demographics and survey results proved to be the most impactful
+  - We were able to observe which independent variables were most impactful to our machine learning model
+  - Observing the data as a whole helped us get better insights before splitting it into our match vs nonmatch
 
 # References
 
