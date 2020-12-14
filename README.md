@@ -40,6 +40,7 @@ The 3 groups are as follows
   - Interests 
   - Survey Responses to each date
 I also cleaned the data by inserting either zeros or column averages since there were many NULL values
+
 ![](https://github.com/djarquin92/practicumII/blob/main/Data_cleaning.PNG)
 
 # Demographics Data
@@ -54,6 +55,7 @@ Lastly, I did a Variable Importance Plot from the Random Forest to see which ind
 ![](https://github.com/djarquin92/practicumII/blob/main/WSS_Plot.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Kmeans_clustering.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_1.png)
+
 
 - Our Random Forest Model achieved an accuracy of 94.99%
 - We can see that wave number, age and round are the independent variables that played a huge part of our random forest model.
@@ -70,6 +72,7 @@ I was curious to see if certain activities drew people together more than others
 ![](https://github.com/djarquin92/practicumII/blob/main/Random_forest_2_interests.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_1.png)
 
+
 - I performed a random forests and variable of importance plot to see which variables impacted our model the most
 - Our model yielded a 96.9% accuracy
 - We can see that the mean of our model is mostly impacted by clubbing, theater, reading and tv
@@ -78,6 +81,7 @@ I was curious to see if certain activities drew people together more than others
 
 ![](https://github.com/djarquin92/practicumII/blob/main/barplot_1_total_interests.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Barplot_2_interests.PNG)
+
 
 The Bar Plots show the mean of each of the categories for interests. 
 I first looked at total mean with matches and non matches, then I split the data and measured the means again
@@ -98,6 +102,7 @@ Keep in mind that each of these dates were only 4 minutes and participants were 
 ![](https://github.com/djarquin92/practicumII/blob/main/random_forest_3_survey_reponses.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/Var_imp_3_survey_responses.png)
 
+
 Our Random Forest Model yielded a 97.11% accuracy
 Based off our Random Forest model, ambitiousness and attractiveness were consistently the 2 most impactful independent variables in determining our results for a match.
 We can get a true insight of what people were looking for in determining if their date would be a match.
@@ -105,6 +110,7 @@ We can get a true insight of what people were looking for in determining if thei
 # Survey Response Data Visualizations 
 ![](https://github.com/djarquin92/practicumII/blob/main/barplot_3_survey_responses.png)
 ![](https://github.com/djarquin92/practicumII/blob/main/barplot_4_survey_responses.PNG)
+
 
 The Bar plots show the means of each of the categories for the participants responses to their date.
 In the bar chart with both match and non match we should note a couple things:
