@@ -10,7 +10,6 @@ Practicum II
 
 December, 2020 
 
-Video Presentation: https://youtu.be/TXld8ViWqNQ
 
 # Purpose
 
